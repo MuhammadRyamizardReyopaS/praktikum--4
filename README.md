@@ -2,13 +2,13 @@
 
 ## 1.TABEL PEGAWAI
 
-1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
+- Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 
 ![foto1](ss1.png)
 
 2. Tampilkan pegawai yang tunjangannya NULL !
 
-![foto2] (ss2.png)
+![foto2](ss2.png)
 
 3. Tampilkan pegawai yang tunjangannya NOT NULL !
 
